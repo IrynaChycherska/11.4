@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\1 курс\АП\11.4\11.4\Source.cpp(47,6): warning C4101: 'vartist': unreferenced local variable
+D:\1 курс\АП\11.4\11.4\Source.cpp(130,6): warning C4101: 'posada': unreferenced local variable
+D:\1 курс\АП\11.4\11.4\Source.cpp(335,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  11.4.vcxproj -> D:\1 курс\АП\11.4\Debug\11.4.exe
